@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .company {
+    height: 70px;
+    background-color: rgba(199, 66, 66, 0.882);
+  }
+  
+  .header {
+    height: 120px;
+    background-color: rgba(95, 73, 22, 0.864);
+    margin-top: 15px;
+  }
+  
+  .nav {
+    display: flex;
+    height: 45px;
+    margin-top: 15px;
+  }
+  
+  #one,
+  #two,
+  #three,
+  #four {
+    background-color: rgba(18, 66, 29, 0.896);
+  }
+  
+  #one,
+  #two,
+  #three {
+    margin-right: 15px;
+  }
+  
+  .main {
+    display: flex;
+    margin-top: 15px;
+    height: 210px;
+  }
+  
+  .about {
+    background-color: rgba(28, 84, 100, 0.867);
+    margin-right: 15px;
+  }
+  
+  .quicklinks {
+    height: 85px;
+    background-color: rgba(35, 20, 117, 0.862);
+  }
+  
+  .quicklinks1 {
+    height: 110px;
+    background-color: rgba(104, 34, 184, 0.84);
+    margin-top: 15px;
+  }
+  
+  .site{
+      height: 120px;  background-color: rgba(176, 47, 124, 0.867);
+      margin-top: 15px;
+  }
